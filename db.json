@@ -77,7 +77,7 @@
                     "y": "69,844"
                 }
             ],
-            "year": 2022,
+            "year": "1_year",
             "market": "southeast"
         },
         {
@@ -157,7 +157,7 @@
                     "y": "64,844"
                 }
             ],
-            "year": 2021,
+            "year": "2_year",
             "market": "southeast"
         },
         {
@@ -237,7 +237,7 @@
                     "y": "65,844"
                 }
             ],
-            "year": 2022,
+            "year": "1_year",
             "market": "northeast"
         },
         {
@@ -317,7 +317,7 @@
                     "y": "65,844"
                 }
             ],
-            "year": 2018,
+            "year": "5_year",
             "market": "northeast"
         },
         {
@@ -397,7 +397,7 @@
                     "y": "69,844"
                 }
             ],
-            "year": 2019,
+            "year": "4_year",
             "market": "south"
         }
     ]
